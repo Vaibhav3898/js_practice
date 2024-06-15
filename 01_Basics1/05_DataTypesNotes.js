@@ -24,3 +24,10 @@ let myObj = {
     name: "Vaibhav",
     age: 22,
 }
+
+// Functions
+const myfunction =function()
+{
+    console.log("Hello World");
+}
+console.log(typeof anotherId)
